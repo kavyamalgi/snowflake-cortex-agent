@@ -48,6 +48,9 @@ This project showcases how large language models, vector search, and cloud data 
   
   Because the configuration is UI-driven, there is no standalone SQL file for the agent setup. Instead, the semantic model (`semantic/BOOKS_SEMANTIC_VIEW.yaml`) and Python client (`src/cortex_search_client.py`) demonstrate how the agent is powered under the hood.
 
+## Demo Screenshots
+Screenshots of the Cortex Search service, Analyst queries, and results are available in the `screenshots/` folder.
+
 ## What This Demonstrates
 - Cloud AI Engineering
 - RAG-style retrieval inside Snowflake
